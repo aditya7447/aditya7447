@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **adityawakarekar9604@gmail.com**
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya7447" alt="aditya7447" height="100px" /></a> </p>
-
 
 <h3 align="left" &nbsp;>Connect with me:</h3>
 <p align="left" &nbsp;>
