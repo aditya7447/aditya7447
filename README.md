@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Gomteshwar High-Tech Nursery Web app**
 
-- 🌱 I’m currently learning **Full Stack Web Development Course**
-
 - 📫 How to reach me **adityawakarekar9604@gmail.com**
 
 
