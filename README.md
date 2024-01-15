@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h2 align="center">A passionate frontend developer</h2>
+<h2 align="center">Software Developer @Aloha Technology</h2>
 
 - 🔭 I’m currently working on **Gomteshwar High-Tech Nursery Web app**
 
