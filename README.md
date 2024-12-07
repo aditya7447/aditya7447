@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h2 align="center">Software Developer @Aloha Technology</h2>
 
-- 🔭 I’m currently working on **Gomteshwar High-Tech Nursery Web app**
-
 - 📫 How to reach me **adityawakarekar9604@gmail.com**
 
 
